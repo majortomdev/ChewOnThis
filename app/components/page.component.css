@@ -1,5 +1,6 @@
 .front {
-  width: 60%;
-  margin: 10%;
-  background-color: grey;
+  display: inline-block;
+  width: 75%;
+  margin: 5%;
+  //background-color: grey;
 }
